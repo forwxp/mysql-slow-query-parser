@@ -15,7 +15,7 @@ You need to install python-sqlparse to run this tool
 you may:
     apt-get install python-sqlparse
 or:
-    apt-get install python-sqlparse
+    pip install sqlparse
 
 How to use mysql-slow-query-parser to parser slow query::
     You can get help with ./parser -h or ./parser --help

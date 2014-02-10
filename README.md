@@ -19,7 +19,7 @@ you may:
 or:
 
 ```
-    pip install python-sqlparse
+    pip install sqlparse
 ```
 
 How to use mysql-slow-query-parser to parser slow query::
